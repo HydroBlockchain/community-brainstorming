@@ -1,4 +1,4 @@
-# Community-Brainstoming
+# Community-Brainstorming
 A place for the Hydro Community to discuss ideas for the HCDP.
 
 Please comment as an Issue using the following format:
